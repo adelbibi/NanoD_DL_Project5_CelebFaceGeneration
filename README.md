@@ -1,4 +1,4 @@
-# Trained a GAN model on CelebA to generate celebrity faces
+# Trained a GAN model on CelebA to generate realistic celebrity faces
 This is my solution to project #5 of the deep learning foundations nanodegree.
 
 To run the code, follow the instructions:
